@@ -1,0 +1,4 @@
+- Deploy NemoClaw
+- Connect NVIDIA API
+- Verify startup
+- Add AI Employees
